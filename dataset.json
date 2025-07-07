@@ -1,0 +1,57 @@
+{
+  "user_data": {
+    "Name": "Dwija Mehta",
+    "Email": "dwija@example.com",
+    "Mobile Number": "7600016318",
+    "Standard": "Class 9 Science",
+    "Board": "ICSE",
+    "Batch": "B1"
+  },
+  "tests_data": {
+    "IC9s-Bio-WCT-21/07-8161": {
+      "total": { "user_marks": 24, "max_marks": 25, "average_marks": 24.5, "highest_marks": 25 },
+      "subjects": {
+        "Biology": { "user_marks": 24, "max_marks": 25, "average_marks": 24.5, "highest_marks": 25 }
+      },
+      "details": {
+        "test_name": "IC9s-Bio-WCT-21/07-8161",
+        "test_date": "2024-07-21T03:30:00",
+        "duration": "00:45",
+        "user_status": "Present"
+      }
+    }
+    /* …more tests… */
+  },
+  "assignments_data": {
+    "assignments": [
+      {
+        "type": "Homework",
+        "title": "IC9s-Phy-B1-19/07-21964",
+        "assigned_date": "2024-07-19T00:00:00",
+        "due_date": "2024-07-22T23:59:59",
+        "subject": "Physics",
+        "status": "Submitted"
+      }
+      /* …more assignments… */
+    ]
+  },
+  "ptms_data": {
+    "ptms": [
+      {
+        "name": "IC9s-15:30-20/07-16",
+        "scheduled_date": "2024-07-20T00:00:00",
+        "scheduled_time": "15:30",
+        "mode": "In Person",
+        "purpose": "To understand academic difficulties",
+        "recommended_by": "Academic Manager",
+        "user_status": "Present"
+      }
+    ]
+  },
+  "attendance_data": {
+    "attendance": [
+      { "date": "2024-07-01T13:07:09", "subject": "Mathematics", "type": "Regular Session", "user_status": "Present" }
+      /* …more records… */
+    ]
+  }
+}
